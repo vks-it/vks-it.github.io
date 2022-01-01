@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<img src="https://raw.githubusercontent.com/vks-it/vks-it.github.io/main/docs/assets/Untitled%20design.png"/>
+<img src="https://github.com/vks-it/vks-it.github.io/blob/main/docs/assets/sunburst1.png"/>
+<img src="https://github.com/vks-it/vks-it.github.io/blob/main/docs/assets/sunburst1.png"/>
 </body>
 </html>
